@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: URLShortener
+  annotations:
+    github.com/project-slug: AldiGjoka/URLShortener
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
